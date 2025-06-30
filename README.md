@@ -5,3 +5,10 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Main interests:
+:ballot_box: Politics	
+:coin: Economics
+:balance_scale: Judiciary affairs
+:evergreen_tree: Environmental issues	
+:family_woman_girl_girl: Gender 
